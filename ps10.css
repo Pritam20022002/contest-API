@@ -1,0 +1,10 @@
+body{
+    background-color: #5a91fe7e !important; 
+}
+.container{
+    padding: 10px;
+}
+.row{
+    display: flex;
+    justify-content: center;
+}
